@@ -2,3 +2,6 @@
 __pycache__
 app.egg-info
 uv.lock
+.venv
+.DS_Store
+.vscode
